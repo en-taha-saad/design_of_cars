@@ -1,0 +1,4 @@
+#Thu Oct 14 12:28:39 AST 2021
+base.0=C\:\\Users\\NS\\Downloads\\yanhadh\\design_of_cars\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
